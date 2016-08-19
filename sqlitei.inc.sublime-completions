@@ -78,7 +78,6 @@
 		"DB_DEBUG",
 		"DB_LOG_TO_CHAT",
 		"DB_QUERY_ERRORS",
-		"DB_PRINT_ERRORS",
-		"pawn"
+		"DB_PRINT_ERRORS"
 	]
 }
